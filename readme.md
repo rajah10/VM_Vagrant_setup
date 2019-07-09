@@ -61,6 +61,6 @@ Run `vagrant up` to start vagrant, and run `vagrant ssh` to enter to guest mechi
 
 To setup Apache server, click <a href="https://github.com/rajah10/Vagrant_Apache2_PHP_MySql_env"> here </a>
 
-To setup multiple vhost, click <a herf="https://github.com/rajah10/Vagrant_vhost"> here </a>
+To setup multiple vhost, click <a href="https://github.com/rajah10/Vagrant_vhost"> here </a>
 
-To setup Ngnix server, click <a herf="https://github.com/rajah10/Vagrant_Nginx_MySql_PHP_env"> here </a>
+To setup Ngnix server, click <a href="https://github.com/rajah10/Vagrant_Nginx_MySql_PHP_env"> here </a>
